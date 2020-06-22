@@ -25,6 +25,13 @@ authors:
     email: s.vinouze@gmail.com
     web: https://medium.com/@s.vinouze
     twitter: https://twitter.com/stephenvinouze
+  sam:
+    name: Sam
+    display_name: Sam
+    avatar: 'assets/images/avatar.png'
+    email: sam6525@163.com
+    web: https://medium.com/@s.vinouze
+    twitter: https://twitter.com/stephenvinouze
 
 # Plugins
 plugins:
