@@ -1,8 +1,8 @@
 ---
 
 layout: post
-author: stephen
-title:  Stop Using Post/PostDelayed in Your Android Views
+author: sam
+title:  芯片批量校准系统
 description: Prevent avoidable crashes
 categories: [ Android, Handler, Lifecycle ]
 image: https://cdn-images-1.medium.com/max/11074/0*BwWQN0ol_F5dP4dj
