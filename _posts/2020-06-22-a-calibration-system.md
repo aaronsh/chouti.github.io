@@ -3,8 +3,8 @@
 layout: post
 author: sam
 title:  芯片批量校准系统
-description: Prevent avoidable crashes
-categories: [ Android, Handler, Lifecycle ]
+description: 批量化的数字传感器的校准系统
+categories: [ 嵌入式开发, Python, QT，服务器软件 ]
 image: https://cdn-images-1.medium.com/max/11074/0*BwWQN0ol_F5dP4dj
 featured: true
 hidden: true
