@@ -11,7 +11,7 @@ hidden: true
 
 ---
 
-Since its beginning, Android has provided a [Handler](https://developer.android.com/reference/android/os/Handler) API. As the documentation states, it allows you to deliver messages from a queue on a [Looper](https://developer.android.com/reference/android/os/Looper)’s thread.
+这是一套根据一家芯片公司的定制需求而开发的软件系统。它可以帮助芯片公司提高生产率，同时对每颗芯片生成记录，便于售后维护管理。
 
 ```kotlin
 Handler().postDelayed({
